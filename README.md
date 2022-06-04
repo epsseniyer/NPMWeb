@@ -15,5 +15,6 @@ Final Version :
 ![image](https://user-images.githubusercontent.com/66587693/172020307-3b5d9bb0-bd49-43e1-938e-e36f767a8a32.png)
 ***
 **MIT Licence**
-**Maked By Lilla*
-Maked in [![My Skills](https://skillicons.dev/icons?i=vscode,nodejs&perline=3)](https://skillicons.dev)
+**Maked By Lilla**
+***
+[![My Skills](https://skillicons.dev/icons?i=vscode,nodejs&perline=3)](https://skillicons.dev)
