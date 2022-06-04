@@ -1,0 +1,26 @@
+{
+  "name": "npmweb",
+  "version": "1.0.0",
+  "description": "A web app With NPM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epsseniyer/NPMWeb.git"
+  },
+  "keywords": [
+    "Web"
+  ],
+  "author": "Lilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epsseniyer/NPMWeb/issues"
+  },
+  "homepage": "https://github.com/epsseniyer/NPMWeb#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  }
+}
